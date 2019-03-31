@@ -1,4 +1,4 @@
-# this is for customer registration
+<!-- this is for customer registration -->
 <!DOCTYPE html>
 <html>
 	<head>
@@ -111,25 +111,3 @@
 }
 
 ?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
