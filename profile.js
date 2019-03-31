@@ -1,4 +1,6 @@
-<?php
+<!-- this section is for user profile -->
+
+<?
 
 session_start();
 if(!isset($_SESSION["uid"])){
